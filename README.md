@@ -1,6 +1,6 @@
 ## Greetings 👋, 
 ## Welcome to my page where I share my hobby for electronics
-
+## GitHub Spray on contributions(Not to be taken seriously)
 <!--
 **Sotrs/Sotrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
